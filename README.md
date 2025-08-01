@@ -1,28 +1,34 @@
-# Hi there 👋 I'm Rida Shaikh
+# Hi there, I'm Rida Shaikh 👋
 
-Welcome to my GitHub profile!
+🎓 Student at STR  
+💻 Passionate about tech, coding, and learning new things  
+🌱 Currently exploring programming, open source, and web development  
+📚 Love working on projects and building my skills one step at a time
 
-🌱 I’m currently learning:
-- Programming fundamentals
-- Web development
-- Python and C basics
-- Git and GitHub
+---
 
-🚀 Goals:
-- Build cool beginner-level projects
-- Improve my coding skills step-by-step
-- Collaborate with other developers
-
-📚 Tech I’m exploring:
+### 🔧 Technologies I'm Learning
 - HTML, CSS, JavaScript
-- Python
+- Python, C++
 - Git & GitHub
 
-📫 How to reach me:
-- 📧 Email: [your-email@example.com]
-- 💬 Open to collaboration on beginner-friendly projects!
+---
 
-Thanks for stopping by! ⭐
+### 📫 Let's Connect
+- 📧 Email: [your email here]
+- 💼 LinkedIn: [your LinkedIn profile link here]  
+- 🌐 Portfolio: [if available]
+
+---
+
+### ✨ Fun Fact
+I believe learning by building is the best way to grow 🚀
+
+---
+
+Thanks for visiting my profile! 😊
+
+
 
 <!-- Optional: Add a GitHub stats card -->
 ![Rida's GitHub stats](https://github-readme-stats.verc)
